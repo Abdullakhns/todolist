@@ -1,0 +1,46 @@
+.update_input {
+  width: 300px;
+  height: 40px;
+  background: white;
+  border: 2px solid #4f005f;
+  outline: none;
+  color: #1f1f1f;
+  padding: 0 5px;
+  font-size: 18px;
+  border-radius: 8px;
+}
+
+.btn {
+  width: 100px;
+  height: 40px;
+  background: #4f005f;
+  color: white;
+  border: none;
+  font-size: 17px;
+  border-radius: 8px;
+}
+
+.input_container {
+  width: 500px;
+  background: white;
+  border-radius: 10px;
+  margin: 10px auto 0 auto;
+  padding: 30px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 15px;
+}
+
+.header_container {
+  margin: 25px 0 100px 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+h1 {
+  color: white;
+  font-size: 42px;
+}
